@@ -19,9 +19,11 @@ I'm developing a global address space library MassiveThreads/GAS (MGAS-2).
 ## Interests
 
 High performance computing (HPC), parallel & distributed computing, global address space models, 
-interconnection, task-parallel programming, etc.
+HPC interconnection, task-parallel programming, etc.
 
 # Publication
 
-- __Endo, W.__, Taura, K. MGAS-2: Global Address Space Library with Dynamic Data Migration. HPDC '16 Poster Session. Kyoto, Japan. June 2015.
+- <u>Endo, W.</u>, Taura, K.  
+  __MGAS-2: Global Address Space Library with Dynamic Data Migration__.  
+  HPDC '16 Poster Session. Kyoto, Japan. June 2015.
 
