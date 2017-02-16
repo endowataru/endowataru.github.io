@@ -12,19 +12,20 @@ __遠藤 亘 (えんどう わたる)__
 - [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 修士2年
 - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
 
-## 研究テーマ
-
-大域アドレス空間システム MassiveThreads/GAS (MGAS-2)の開発を行っています．
-
 ## 研究分野
 
-高性能計算 (HPC)，並列分散処理，大域アドレス空間システム，HPCインターコネクト，
-タスク並列プログラミングなど．
+高性能計算 (HPC)，HPCインターコネクト，
+分散共有メモリ，タスク並列プログラミングなど．
 
 # 発表
 
-### 国内発表・査読なし
+### 査読あり発表
 
+- <u>Endo, W.</u>, Taura, K.:  
+  __Parallelized Software Offloading in Low-Level Communication Layer__.  
+  xSIG 2017. 2017年4月発表予定.  
+
+### 国内発表・査読なし
 
 - <u>遠藤 亘</u>, 田浦 健次朗:  
   __PGAS向け低水準通信レイヤーのマルチスレッド実装__.  
