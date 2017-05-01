@@ -23,7 +23,8 @@ __遠藤 亘 (えんどう わたる)__
 
 - <u>Endo, W.</u>, Taura, K.:  
   __Parallelized Software Offloading in Low-Level Communication Layer__.  
-  xSIG 2017. 2017年4月発表予定.  
+  [xSIG 2017](http://xsig.hpcc.jp/).  
+  __Best M2 Student Award__.
 
 ### 国内発表・査読なし
 
