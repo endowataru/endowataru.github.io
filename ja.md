@@ -9,7 +9,7 @@ permalink: /ja/
 __遠藤 亘 (えんどう わたる)__
 
 - 東京大学 大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/)
-- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 修士2年
+- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程1年
 - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
 
 ## 研究分野
@@ -19,11 +19,12 @@ __遠藤 亘 (えんどう わたる)__
 
 # 発表
 
-### 査読あり発表
+### 国内発表・査読あり
 
-- <u>Endo, W.</u>, Taura, K.:  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading in Low-Level Communication Layer__.  
-  [xSIG 2017](http://xsig.hpcc.jp/).  
+  [The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.hpcc.jp/)
+  (xSIG 2017). 2017年4月.  
   __Best M2 Student Award__.
 
 ### 国内発表・査読なし
@@ -41,8 +42,21 @@ __遠藤 亘 (えんどう わたる)__
 
 ### ポスター発表
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
+  __Parallelized Software Offloading in a Low-Level Communication Layer__.  
+  [xSIG 2017](http://xsig.hpcc.jp/). 2017年4月.
+- Shintaro Iwasaki, An Huynh, Christian Helm, Byambajav Namsraijav, <u>Wataru Endo</u>, Kenjiro Taura:  
+  __TP-PARSEC: A task-parallel PARSEC benchmark suite__.  
+  [The 1st International Symposium on Research and Education of Computational Science](http://conf.compsci-alliance.jp/)
+  (RECS ’16). November 2016.
+- <u>Wataru Endo</u>, Kenjiro Taura.  
   __MGAS-2: Global Address Space Library with Dynamic Data Migration.__  
   HPDC ’16 Poster Session. Kyoto, Japan. June 2015.
 
+# 学内発表
+
+- __分散スレッドスケジューラと協調する分散共有メモリライブラリの設計と実装__.  
+  修士論文. 2016年2月.
+- __タスク並列処理に適した大域アドレス空間システムのマルチスレッド実装__.  
+  卒業論文. 2015年2月.
 
