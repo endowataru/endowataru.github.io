@@ -19,6 +19,13 @@ __遠藤 亘 (えんどう わたる)__
 
 # 発表
 
+### 国際学会・査読あり
+
+- <u>Endo, W.</u>, Taura, K.  
+  __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
+  HPC Asia 2018. Tokyo, Japan. January 2018.  
+  ([Paper](https://dl.acm.org/citation.cfm?doid=3149457.3149475))
+
 ### 国内発表・査読あり
 
 - <u>Wataru Endo</u>, Kenjiro Taura:  
