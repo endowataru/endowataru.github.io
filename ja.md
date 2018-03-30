@@ -4,6 +4,8 @@ title: About (Japanese)
 permalink: /ja/
 ---
 
+[English version](/)
+
 # 自己紹介
 
 __遠藤 亘 (えんどう わたる)__
@@ -23,15 +25,17 @@ __遠藤 亘 (えんどう わたる)__
 
 - <u>Endo, W.</u>, Taura, K.  
   __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
-  HPC Asia 2018. Tokyo, Japan. January 2018.  
+  [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/). Tokyo, Japan. January 2018.  
   ([Paper](https://dl.acm.org/citation.cfm?doid=3149457.3149475))
+  ([Slides](/pub/20180131_hpcasia_slides.pdf))
 
 ### 国際学会発表
 
 - <u>Endo, W.</u>, Taura, K.  
   __A Distributed Shared Memory Library with Global-View Tasks on High-Performance Interconnects__.  
-  SIAM-PP 2018 Contributed Presentation. Tokyo, Japan. March 2018.  
+  [SIAM-PP 2018](https://www.siam.org/meetings/pp18/) Contributed Presentation. Tokyo, Japan. March 2018.  
   ([Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=89710))
+  ([Slides](/pub/20180309_siampp_slides.pdf))
 
 ### 国内発表・査読あり
 
