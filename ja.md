@@ -11,7 +11,7 @@ permalink: /ja/
 __遠藤 亘 (えんどう わたる)__
 
 - 東京大学 大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/)
-- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程1年
+- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程2年
 - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
 
 ## 研究分野
