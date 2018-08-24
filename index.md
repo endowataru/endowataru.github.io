@@ -15,6 +15,8 @@ ___Wataru ENDO___ is a doctoral student of [Taura Laboratory](http://www.eidos.i
 ## Research
 
 I'm working on the development of efficient & productive communication libraries for HPC systems.
+Currently, I'm developing a distributed shared memory library
+[MENPS](https://github.com/endowataru/menps).
 
 ## Interests
 
@@ -45,5 +47,6 @@ HPC interconnection, task-parallel programming, etc.
   __MGAS-2: Global Address Space Library with Dynamic Data Migration__.  
   HPDC '16 Poster Session. Kyoto, Japan. June 2015.
 
+See also [the publications in Japanese](./ja/)
 
 
