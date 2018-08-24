@@ -14,6 +14,11 @@ __遠藤 亘 (えんどう わたる)__
 - [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程2年
 - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
 
+# 研究
+
+分散共有メモリライブラリ[MENPS](https://github.com/endowataru/menps)を
+中心に，並列分散処理について研究しています．
+
 ## 研究分野
 
 高性能計算 (HPC)，HPCインターコネクト，
