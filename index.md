@@ -47,6 +47,10 @@ HPC interconnection, task-parallel programming, etc.
   __MGAS-2: Global Address Space Library with Dynamic Data Migration__.  
   HPDC '16 Poster Session. Kyoto, Japan. June 2015.
 
-See also [the publications in Japanese](./ja/)
 
+## Fellowship
+
+- [JSPS Research Fellowship for Young Scientists, DC2](https://www.jsps.go.jp/english/e-pd/index.html). (April 2019 -)
+
+See also [the publications in Japanese](./ja/)
 

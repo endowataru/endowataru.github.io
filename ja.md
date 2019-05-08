@@ -87,7 +87,12 @@ __遠藤 亘 (えんどう わたる)__
   __MGAS-2: Global Address Space Library with Dynamic Data Migration.__  
   HPDC ’16 Poster Session. Kyoto, Japan. June 2015.
 
-# 学内発表
+### その他
+
+- [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html). (April 2019 -)
+    - "タスク並列を活用した分散共有メモリによる高生産スパコンプログラミング環境"
+
+### 学内発表
 
 - __分散スレッドスケジューラと協調する分散共有メモリライブラリの設計と実装__.  
   修士論文. 2017年2月.  
