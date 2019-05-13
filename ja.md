@@ -28,7 +28,7 @@ __遠藤 亘 (えんどう わたる)__
 
 ### 国際学会・査読あり
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
   [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/). Tokyo, Japan. January 2018.  
   ([Paper](https://dl.acm.org/citation.cfm?doid=3149457.3149475))
@@ -36,7 +36,7 @@ __遠藤 亘 (えんどう わたる)__
 
 ### 国際学会発表
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __A Distributed Shared Memory Library with Global-View Tasks on High-Performance Interconnects__.  
   [SIAM-PP 2018](https://www.siam.org/meetings/pp18/) Contributed Presentation. Tokyo, Japan. March 2018.  
   ([Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=89710))
@@ -46,18 +46,22 @@ __遠藤 亘 (えんどう わたる)__
 
 - <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading in Low-Level Communication Layer__.  
-  [The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.hpcc.jp/)
+  [The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.hpcc.jp/2017/)
   (xSIG 2017). 2017年4月.  
   __Best M2 Student Award__.
 
+- Takuya Fukuoka, <u>Wataru Endo</u>, Kenjiro Taura:  
+  __An Implementation of Inter-node Communication System with Efficient Lightweight-thread Scheduling__.  
+  [The 3rd cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming](http://xsig.hpcc.jp/2019/)
+  (xSIG 2019). 2019年5月発表予定.
+
 ### 国内発表・査読なし
 
-- 遠藤 亘, 田浦 健次朗:  
+- <u>遠藤 亘</u>, 田浦 健次朗:  
   __論理タイムスタンプに基づく分散共有メモリライブラリの実装__.  
   並列／分散／協調処理に関する『熊本』サマー・ワークショップ (SWoPP2018). 2018年7月.  
   ([論文](http://id.nii.ac.jp/1001/00190576/))
   ([スライド](/pub/20180731_swopp_slides.pdf))
-
 - <u>遠藤 亘</u>, 田浦 健次朗:  
   __分散スレッドスケジューラと協調する分散共有メモリ処理系の初期評価__.  
   並列／分散／協調処理に関する『秋田』サマー・ワークショップ (SWoPP2017). 2017年7月.  
@@ -83,7 +87,7 @@ __遠藤 亘 (えんどう わたる)__
   __TP-PARSEC: A task-parallel PARSEC benchmark suite__.  
   [The 1st International Symposium on Research and Education of Computational Science](http://conf.compsci-alliance.jp/)
   (RECS ’16). November 2016.
-- <u>Wataru Endo</u>, Kenjiro Taura.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __MGAS-2: Global Address Space Library with Dynamic Data Migration.__  
   HPDC ’16 Poster Session. Kyoto, Japan. June 2015.
 
@@ -91,6 +95,7 @@ __遠藤 亘 (えんどう わたる)__
 
 - [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html). (2019年度〜)
     - "タスク並列を活用した分散共有メモリによる高生産スパコンプログラミング環境"
+- [International HPC Summer School](http://ihpcss18.it4i.cz/) 参加 (2018年7月)
 
 ### 学内発表
 

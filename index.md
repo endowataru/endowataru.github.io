@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-___Wataru ENDO___ is a doctoral student of [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp) at:
+___Wataru Endo___ is a doctoral student of [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp) at:
 
 - [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml)
 - [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml)
@@ -27,7 +27,7 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Paper
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
   [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/). Tokyo, Japan. January 2018.  
   ([Paper](https://dl.acm.org/citation.cfm?doid=3149457.3149475))
@@ -35,7 +35,7 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Contributed Presentation
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __A Distributed Shared Memory Library with Global-View Tasks on High-Performance Interconnects__.  
   [SIAM-PP 2018](https://www.siam.org/meetings/pp18/) Contributed Presentation. Tokyo, Japan. March 2018.  
   ([Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=89710))
@@ -43,7 +43,7 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Poster
 
-- <u>Endo, W.</u>, Taura, K.  
+- <u>Wataru Endo</u>, Kenjiro Taura:  
   __MGAS-2: Global Address Space Library with Dynamic Data Migration__.  
   HPDC '16 Poster Session. Kyoto, Japan. June 2015.
 
@@ -51,6 +51,10 @@ HPC interconnection, task-parallel programming, etc.
 ## Fellowship
 
 - [JSPS Research Fellowship for Young Scientists, DC2](https://www.jsps.go.jp/english/e-pd/index.html). (April 2019 -)
+
+## Other experiences
+
+- [International HPC Summer School](http://ihpcss18.it4i.cz/) Attendee (July 2018)
 
 See also [the publications in Japanese](./ja/)
 
