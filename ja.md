@@ -34,6 +34,10 @@ __遠藤 亘 (えんどう わたる)__
   ([Paper](https://dl.acm.org/citation.cfm?doid=3149457.3149475))
   ([Slides](/pub/20180131_hpcasia_slides.pdf))
 
+- Takuya Fukuoka, <u>Wataru Endo</u>, Kenjiro Taura:  
+  __An Efficient Inter-node Communication System with Lightweight-thread Scheduling__.  
+  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2018 (To appear.)
+
 ### 国際学会発表
 
 - <u>Wataru Endo</u>, Kenjiro Taura:  
