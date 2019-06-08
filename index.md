@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-___Wataru Endo___ is a doctoral student of [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp) at:
+___Wataru Endo___ is a doctoral student in [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp) at:
 
 - [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml)
 - [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml)
@@ -35,7 +35,7 @@ HPC interconnection, task-parallel programming, etc.
 
 - Takuya Fukuoka, <u>Wataru Endo</u>, Kenjiro Taura:  
   __An Efficient Inter-node Communication System with Lightweight-thread Scheduling__.  
-  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2018 (To appear.)
+  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019 (To appear.)
 
 ## Contributed Presentation
 
