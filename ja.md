@@ -11,13 +11,13 @@ permalink: /ja/
 __遠藤 亘 (えんどう わたる)__
 
 - 東京大学 大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/)
-- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程3年
+- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程修了
 - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
 
 # 研究
 
 分散共有メモリライブラリ[MENPS](https://github.com/endowataru/menps)を
-中心に，並列分散処理について研究しています．
+中心に，並列分散処理について研究していました．
 
 ## 研究分野
 
@@ -36,7 +36,7 @@ __遠藤 亘 (えんどう わたる)__
 
 - Takuya Fukuoka, <u>Wataru Endo</u>, Kenjiro Taura:  
   __An Efficient Inter-node Communication System with Lightweight-thread Scheduling__.  
-  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019 (To appear.)
+  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019.
 
 ### 国際学会発表
 
@@ -97,7 +97,7 @@ __遠藤 亘 (えんどう わたる)__
 
 ### その他
 
-- [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html). (2019年度〜)
+- [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html). (2019年度)
     - "タスク並列を活用した分散共有メモリによる高生産スパコンプログラミング環境"
 - [International HPC Summer School](http://ihpcss18.it4i.cz/) 参加 (2018年7月)
 

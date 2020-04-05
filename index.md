@@ -6,16 +6,17 @@ layout: default
 
 # About
 
-___Wataru Endo___ is a doctoral student in [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp) at:
+___Wataru Endo___ was a doctoral student at:
 
+- [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp)
 - [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml)
 - [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml)
 - [The University of Tokyo](http://www.u-tokyo.ac.jp/en/index.html), Japan
 
 ## Research
 
-I'm working on the development of efficient & productive communication libraries for HPC systems.
-Currently, I'm developing a distributed shared memory library
+I had been working on the development of efficient & productive communication libraries for HPC systems.
+I have developed a distributed shared memory library
 [MENPS](https://github.com/endowataru/menps).
 
 ## Interests
