@@ -109,9 +109,12 @@ __遠藤 亘 (えんどう わたる)__
 
 ### 学内発表
 
+- __A Decentralized Implementation of Software Distributed Shared Memory （ソフトウェア分散共有メモリの非集中型実装）__.  
+  博士論文. 2020年1月.  
+  ([論文](/pub/dissertation.pdf))
 - __分散スレッドスケジューラと協調する分散共有メモリライブラリの設計と実装__.  
   修士論文. 2017年2月.  
-  ([論文](/pub/masters_thesis.pdf))
+  ([論文](/pub/masters_thesis.pdf)) ([UTokyo Repository](http://hdl.handle.net/2261/00074499))
 - __タスク並列処理に適した大域アドレス空間システムのマルチスレッド実装__.  
   卒業論文. 2015年2月.
 

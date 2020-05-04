@@ -73,5 +73,11 @@ HPC interconnection, task-parallel programming, etc.
 - [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-award-2019.html) 2019 (March 2020)
 - [International HPC Summer School](http://ihpcss18.it4i.cz/) Attendee (July 2018)
 
+## Dissertation
+
+- __A Decentralized Implementation of Software Distributed Shared Memory__.  
+  Doctoral dissertation. January 2020.  
+  ([Paper](/pub/dissertation.pdf))
+
 See also [the publications in Japanese](./ja/).
 
