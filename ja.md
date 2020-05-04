@@ -10,6 +10,8 @@ permalink: /ja/
 
 __遠藤 亘 (えんどう わたる)__
 
+<a href="https://www.linkedin.com/in/w-endo/"><img src="/img/LI-In-Bug.png" width="30px" alt="LinkedIn"></a>
+
 ## 経歴
 
 - 2017年4月〜2020年3月: [東京大学](https://www.u-tokyo.ac.jp/)大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/) [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程修了
