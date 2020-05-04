@@ -6,7 +6,7 @@ layout: default
 
 # About
 
-My name is Wataru Endo (given name + last name).
+My name is __Wataru Endo__ (given name + last name).
 I have acquired the PhD degree in Information and Communication Engineering from the University of Tokyo, Japan.
 
 ## Education
