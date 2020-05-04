@@ -6,12 +6,19 @@ layout: default
 
 # About
 
-___Wataru Endo___ was a doctoral student at:
+My name is Wataru Endo (given name + last name).
+I have acquired the PhD degree in Information and Communication Engineering from the University of Tokyo, Japan.
 
-- [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp)
-- [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml)
-- [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml)
-- [The University of Tokyo](http://www.u-tokyo.ac.jp/en/index.html), Japan
+## Education
+
+- April 2017 - March 2020: Doctor of Philosophy in Information and Communication Engineering.
+    - [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp), [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](http://www.u-tokyo.ac.jp/en/index.html).
+- April 2015 - March 2017: Master of Information Science and Technology.
+    - Taura Laboratory, Department of Information and Communication Engineering, Graduate School of Information Science and Technology, The University of Tokyo.
+- April 2012 - March 2015: Bachelor of Engineering.
+    - [Department of Information and Communication Engineering](https://www.ee.t.u-tokyo.ac.jp/), [Faculty of Engineering](https://www.t.u-tokyo.ac.jp/foee/index.html), The University of Tokyo.
+- April 2007 - March 2012: Associate Degree of Engineering.
+    - Department of Control and Information Systems Engineering, [Tsuruoka National College of Technology](https://www.tsuruoka-nct.ac.jp/en/).
 
 ## Research
 
@@ -59,7 +66,8 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Other experiences
 
+- [IPSJ Computer Science Research Award for Young Scientists](https://www.ipsj.or.jp/award/cs-award-2019.html) 2019 (March 2020)
 - [International HPC Summer School](http://ihpcss18.it4i.cz/) Attendee (July 2018)
 
-See also [the publications in Japanese](./ja/)
+See also [the publications in Japanese](./ja/).
 
