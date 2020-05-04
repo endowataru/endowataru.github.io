@@ -10,21 +10,23 @@ permalink: /ja/
 
 __遠藤 亘 (えんどう わたる)__
 
-- 東京大学 大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/)
-- [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程修了
-- [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)
+## 経歴
 
-# 研究
+- 2017年4月〜2020年3月: [東京大学](https://www.u-tokyo.ac.jp/)大学院 [情報理工学系研究科](http://www.i.u-tokyo.ac.jp/) [電子情報学専攻](http://www.i.u-tokyo.ac.jp/edu/course/ice/index.shtml) 博士課程修了
+    - [田浦研究室](http://www.eidos.ic.i.u-tokyo.ac.jp)に所属
+- 2015年4月〜2017年3月: 東京大学大学院 情報理工学系研究科 電子情報学専攻 修士課程修了
+- 2012年4月〜2015年3月: 東京大学 [工学部](https://www.t.u-tokyo.ac.jp/) [電子情報工学科](https://www.ee.t.u-tokyo.ac.jp/) 卒業
+- 2007年4月〜2012年3月: [鶴岡工業高等専門学校](https://www.tsuruoka-nct.ac.jp/) 制御情報工学科 卒業
 
-分散共有メモリライブラリ[MENPS](https://github.com/endowataru/menps)を
-中心に，並列分散処理について研究していました．
+## 研究
 
-## 研究分野
+分散共有メモリライブラリ[MENPS](https://github.com/endowataru/menps)を中心に，並列分散処理について研究していました．
 
-高性能計算 (HPC)，HPCインターコネクト，
-分散共有メモリ，タスク並列プログラミングなど．
+### 研究分野
 
-# 発表
+高性能計算 (HPC)，HPCインターコネクト，分散共有メモリ，タスク並列プログラミングなど．
+
+## 発表
 
 ### 国際学会・査読あり
 
@@ -97,7 +99,8 @@ __遠藤 亘 (えんどう わたる)__
 
 ### その他
 
-- [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html). (2019年度)
+- [2019年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2019.html) 受賞 (2020年3月)
+- [日本学術振興会 特別研究員 DC2](https://www.jsps.go.jp/j-pd/index.html) (2019年度)
     - "タスク並列を活用した分散共有メモリによる高生産スパコンプログラミング環境"
 - [International HPC Summer School](http://ihpcss18.it4i.cz/) 参加 (2018年7月)
 
