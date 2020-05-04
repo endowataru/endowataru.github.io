@@ -47,7 +47,8 @@ HPC interconnection, task-parallel programming, etc.
 
 - Takuya Fukuoka, <u>Wataru Endo</u>, Kenjiro Taura:  
   __An Efficient Inter-node Communication System with Lightweight-thread Scheduling__.  
-  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019 (To appear.)
+  [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019.  
+  ([Paper](https://doi.org/10.1109/HPCC/SmartCity/DSS.2019.00103))
 
 ## Contributed Presentation
 
