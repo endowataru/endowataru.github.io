@@ -10,6 +10,8 @@ title: About (English)
 My name is __Wataru Endo__ (given name + last name).
 I have acquired the PhD degree in Information and Communication Engineering from the University of Tokyo, Japan.
 
+Please contact me on <a href="https://www.linkedin.com/in/w-endo/"><img src="/img/LI-In-Bug.png" width="30px" alt="LinkedIn"></a>.
+
 ## Education
 
 - April 2017 - March 2020: Doctor of Philosophy in Information and Communication Engineering.
