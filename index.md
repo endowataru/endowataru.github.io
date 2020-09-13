@@ -13,8 +13,9 @@ I have acquired the PhD degree in Information and Communication Engineering from
 <a href="https://www.linkedin.com/in/w-endo/"><img src="/img/LI-In-Bug.png" width="30px" alt="LinkedIn"></a>
 <a href="https://github.com/endowataru"><img src="/img/GitHub-Mark-32px.png" width="32px" alt="GitHub"></a>
 
-## Education
+## Work & Education
 
+- April 2020 -: Associate Solutions Architect at Amazon Web Services Japan.
 - April 2017 - March 2020: Doctor of Philosophy in Information and Communication Engineering.
     - [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp), [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](http://www.u-tokyo.ac.jp/en/index.html).
 - April 2015 - March 2017: Master of Information Science and Technology.
