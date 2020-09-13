@@ -10,6 +10,8 @@ permalink: /ja/
 
 __遠藤 亘 (えんどう わたる)__
 
+<img src="/img/photo.jpg" width="200">
+
 <a href="https://www.linkedin.com/in/w-endo/"><img src="/img/LI-In-Bug.png" width="30px" alt="LinkedIn"></a>
 <a href="https://github.com/endowataru"><img src="/img/GitHub-Mark-32px.png" width="32px" alt="GitHub"></a>
 
