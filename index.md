@@ -70,7 +70,7 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Fellowship
 
-- [JSPS Research Fellowship for Young Scientists, DC2](https://www.jsps.go.jp/english/e-pd/index.html). (April 2019 -)
+- [JSPS Research Fellowship for Young Scientists, DC2](https://www.jsps.go.jp/english/e-pd/index.html). (April 2019 - March 2020)
 
 ## Other experiences
 
