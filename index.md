@@ -42,6 +42,9 @@ HPC interconnection, task-parallel programming, etc.
 
 ## Paper
 
+- <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
+  __MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA__.  
+  [IPDRM 2020](https://ipdrm.github.io/). 2020. (To be published.)
 - <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
   [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/). Tokyo, Japan. January 2018.  
