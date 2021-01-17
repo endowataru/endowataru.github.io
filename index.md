@@ -14,6 +14,7 @@ I have acquired the PhD degree in Information and Communication Engineering from
 
 <a href="https://www.linkedin.com/in/w-endo/"><img src="/img/LI-In-Bug.png" width="30px" alt="LinkedIn"></a>
 <a href="https://github.com/endowataru"><img src="/img/GitHub-Mark-32px.png" width="32px" alt="GitHub"></a>
+<a href="https://twitter.com/endo_wataru"><img src="/img/Twitter_Social_Icon_Circle_Color.png" width="32px" alt="Twitter"></a>
 
 ## Work & Education
 
