@@ -41,7 +41,7 @@ HPC interconnection, task-parallel programming, etc.
 
 # Publication
 
-## Paper
+## Papers
 
 - <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
   __MENPS: A Decentralized Distributed Shared Memory Exploiting RDMA__.  
@@ -59,6 +59,16 @@ HPC interconnection, task-parallel programming, etc.
   [HPCC 2019](http://csee.hnu.edu.cn/hpcc2019/index.html). Zhangjiajie, China. August 2019.  
   ([Paper](https://doi.org/10.1109/HPCC/SmartCity/DSS.2019.00103))
 
+## Journal
+
+- <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
+  __ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++__.  
+  [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2022. (Accepted)
+- An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:
+  __TP-PARSEC: A Task Parallel PARSEC Benchmark Suite__.  
+  [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2019. Volume 27, Pages 211-220.  
+  ([Paper](https://doi.org/10.2197/ipsjjip.27.211))
+
 ## Contributed Presentation
 
 - <u>Wataru Endo</u>, Kenjiro Taura:  
@@ -72,7 +82,6 @@ HPC interconnection, task-parallel programming, etc.
 - <u>Wataru Endo</u>, Kenjiro Taura:  
   __MGAS-2: Global Address Space Library with Dynamic Data Migration__.  
   HPDC '16 Poster Session. Kyoto, Japan. June 2015.
-
 
 ## Fellowship
 
