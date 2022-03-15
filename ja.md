@@ -42,6 +42,7 @@ __遠藤 亘 (えんどう わたる)__
   [IPDRM 2020](https://ipdrm.github.io/). 2020.  
   ([Paper](https://doi.org/10.1109/IPDRM51949.2020.00006))
   ([Slides](/pub/20201113_ipdrm_slides.pdf))
+  ([Code](https://github.com/endowataru/menps))
 - <u>Wataru Endo</u>, Kenjiro Taura:  
   __Parallelized Software Offloading of Low-Level Communication with User-Level Threads__.  
   [HPC Asia 2018](http://sighpc.ipsj.or.jp/HPCAsia2018/). Tokyo, Japan. January 2018.  
@@ -62,6 +63,7 @@ __遠藤 亘 (えんどう わたる)__
   __TP-PARSEC: A Task Parallel PARSEC Benchmark Suite__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2019. Volume 27, Pages 211-220.  
   ([Paper](https://doi.org/10.2197/ipsjjip.27.211))
+  ([Code](https://github.com/massivethreads/tp-parsec))
 
 ### 国際学会発表
 
