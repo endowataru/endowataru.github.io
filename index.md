@@ -64,7 +64,10 @@ HPC interconnection, task-parallel programming, etc.
 
 - <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
   __ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++__.  
-  [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2022. (Accepted)
+  [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2022. Volume 30, Pages 269-282.  
+  🏆 [__Specially Selected Paper__](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html) (about top 10 percent of outstanding papers in each JIP issue).  
+  ([Paper](https://doi.org/10.2197/ipsjjip.30.269))
+  ([Code](https://github.com/endowataru/composablethreads))
 - An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:  
   __TP-PARSEC: A Task Parallel PARSEC Benchmark Suite__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2019. Volume 27, Pages 211-220.  
