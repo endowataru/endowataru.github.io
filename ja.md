@@ -59,7 +59,7 @@ __遠藤 亘 (えんどう わたる)__
 - <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
   __ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2022. (Accepted)
-- An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:
+- An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:  
   __TP-PARSEC: A Task Parallel PARSEC Benchmark Suite__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2019. Volume 27, Pages 211-220.  
   ([Paper](https://doi.org/10.2197/ipsjjip.27.211))

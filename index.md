@@ -7,7 +7,7 @@ title: About (English)
 
 # About
 
-My name is __Wataru Endo__ (given name + last name).
+My name is __Wataru Endo__ (given name / last name).
 I have acquired the PhD degree in Information and Communication Engineering from the University of Tokyo, Japan.
 
 <img src="/img/photo.jpg" width="200">
@@ -65,7 +65,7 @@ HPC interconnection, task-parallel programming, etc.
 - <u>Wataru Endo</u>, Shigeyuki Sato, Kenjiro Taura:  
   __ComposableThreads: Rethinking User-level Threads with Composability and Parametricity in C++__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2022. (Accepted)
-- An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:
+- An Huynh, Christian Helm, Shintaro Iwasaki, <u>Wataru Endo</u>, Byambajav Namsraijav, Kenjiro Taura:  
   __TP-PARSEC: A Task Parallel PARSEC Benchmark Suite__.  
   [Journal of Information Processing (JIP)](https://www.ipsj.or.jp/english/jip/index.html). 2019. Volume 27, Pages 211-220.  
   ([Paper](https://doi.org/10.2197/ipsjjip.27.211))
