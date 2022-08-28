@@ -18,7 +18,9 @@ I have acquired the PhD degree in Information and Communication Engineering from
 
 ## Work & Education
 
-- April 2020 -: Associate Solutions Architect at Amazon Web Services Japan.
+- April 2020 -: Solutions Architect at Amazon Web Services Japan.
+    - April 2021 -: Solutions Architect for Financial Services Industry (FSI)
+    - April 2020 - March 2021: Associate Solutions Architect
 - April 2017 - March 2020: Doctor of Philosophy in Information and Communication Engineering.
     - [Taura Laboratory](http://www.eidos.ic.i.u-tokyo.ac.jp), [Department of Information and Communication Engineering](http://www.i.u-tokyo.ac.jp/edu/course/ice/index_e.shtml), [Graduate School of Information Science and Technology](http://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](http://www.u-tokyo.ac.jp/en/index.html).
 - April 2015 - March 2017: Master of Information Science and Technology.
